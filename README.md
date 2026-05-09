@@ -144,3 +144,7 @@ This tool uses the [GeyserMC API](https://api.geysermc.org/v2/xbox/xuid/{gamerta
 ## License
 
 MIT License
+
+## Attribution
+
+This project is powered by the Brave Search API (https://brave.com/search/api/).
